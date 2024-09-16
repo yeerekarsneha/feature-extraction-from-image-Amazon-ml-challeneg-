@@ -1,0 +1,4 @@
+laptop
+jupyter notebook
+ocr installed
+------------------
